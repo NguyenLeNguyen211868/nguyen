@@ -1,0 +1,15 @@
+D:\BaiTapThietKeFrom\BaiTapThietKeFrom\bin\Debug\BaiTapThietKeFrom.exe.config
+D:\BaiTapThietKeFrom\BaiTapThietKeFrom\bin\Debug\BaiTapThietKeFrom.exe
+D:\BaiTapThietKeFrom\BaiTapThietKeFrom\bin\Debug\BaiTapThietKeFrom.pdb
+D:\BaiTapThietKeFrom\BaiTapThietKeFrom\obj\Debug\BaiTapThietKeFrom.csproj.AssemblyReference.cache
+D:\BaiTapThietKeFrom\BaiTapThietKeFrom\obj\Debug\BaiTapThietKeFrom.csproj.SuggestedBindingRedirects.cache
+D:\BaiTapThietKeFrom\BaiTapThietKeFrom\obj\Debug\BaiTapThietKeFrom.frmBai1.resources
+D:\BaiTapThietKeFrom\BaiTapThietKeFrom\obj\Debug\BaiTapThietKeFrom.frmChinh.resources
+D:\BaiTapThietKeFrom\BaiTapThietKeFrom\obj\Debug\BaiTapThietKeFrom.Properties.Resources.resources
+D:\BaiTapThietKeFrom\BaiTapThietKeFrom\obj\Debug\BaiTapThietKeFrom.csproj.GenerateResource.cache
+D:\BaiTapThietKeFrom\BaiTapThietKeFrom\obj\Debug\BaiTapThietKeFrom.csproj.CoreCompileInputs.cache
+D:\BaiTapThietKeFrom\BaiTapThietKeFrom\obj\Debug\BaiTapThietKeFrom.exe
+D:\BaiTapThietKeFrom\BaiTapThietKeFrom\obj\Debug\BaiTapThietKeFrom.pdb
+D:\BaiTapThietKeFrom\BaiTapThietKeFrom\obj\Debug\BaiTapThietKeFrom.frmBai2.resources
+D:\BaiTapThietKeFrom\BaiTapThietKeFrom\obj\Debug\BaiTapThietKeFrom.frmBai3.resources
+D:\BaiTapThietKeFrom\BaiTapThietKeFrom\obj\Debug\BaiTapThietKeFrom.frmBai4.resources
