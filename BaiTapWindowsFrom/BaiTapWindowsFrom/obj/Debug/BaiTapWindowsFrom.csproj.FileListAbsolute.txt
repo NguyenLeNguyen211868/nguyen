@@ -1,0 +1,14 @@
+D:\BaiTapWindowsFrom\BaiTapWindowsFrom\bin\Debug\BaiTapWindowsFrom.exe.config
+D:\BaiTapWindowsFrom\BaiTapWindowsFrom\bin\Debug\BaiTapWindowsFrom.exe
+D:\BaiTapWindowsFrom\BaiTapWindowsFrom\bin\Debug\BaiTapWindowsFrom.pdb
+D:\BaiTapWindowsFrom\BaiTapWindowsFrom\obj\Debug\BaiTapWindowsFrom.csproj.AssemblyReference.cache
+D:\BaiTapWindowsFrom\BaiTapWindowsFrom\obj\Debug\BaiTapWindowsFrom.csproj.SuggestedBindingRedirects.cache
+D:\BaiTapWindowsFrom\BaiTapWindowsFrom\obj\Debug\BaiTapWindowsFrom.frmBai1.resources
+D:\BaiTapWindowsFrom\BaiTapWindowsFrom\obj\Debug\BaiTapWindowsFrom.frmChinh.resources
+D:\BaiTapWindowsFrom\BaiTapWindowsFrom\obj\Debug\BaiTapWindowsFrom.Properties.Resources.resources
+D:\BaiTapWindowsFrom\BaiTapWindowsFrom\obj\Debug\BaiTapWindowsFrom.csproj.GenerateResource.cache
+D:\BaiTapWindowsFrom\BaiTapWindowsFrom\obj\Debug\BaiTapWindowsFrom.csproj.CoreCompileInputs.cache
+D:\BaiTapWindowsFrom\BaiTapWindowsFrom\obj\Debug\BaiTapWindowsFrom.exe
+D:\BaiTapWindowsFrom\BaiTapWindowsFrom\obj\Debug\BaiTapWindowsFrom.pdb
+D:\BaiTapWindowsFrom\BaiTapWindowsFrom\obj\Debug\BaiTapWindowsFrom.frmBai2.resources
+D:\BaiTapWindowsFrom\BaiTapWindowsFrom\obj\Debug\BaiTapWindowsFrom.frmBai3.resources
